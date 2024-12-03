@@ -16,4 +16,16 @@
 
 [submodule "store-front-Final"]
     path = store-front-Final
-    url = https://github.com/B-Crolly/store-front-final
+    url = https://github.com/B-Crolly/store-front-Final
+
+[submodule "store-admin-Final"]
+path = store-admin-Final
+url = https://github.com/B-Crolly/store-front-Final
+
+[submodule "virtual-customer-Final"]
+path = virtual-customer-Final
+url = https://github.com/B-Crolly/virtual-customer-Final
+
+[submodule "virtual-worker-Final"]
+path = virtual-worker-Final
+url = https://github.com/B-Crolly/virtual-worker-Final
