@@ -1,0 +1,19 @@
+[submodule "ai-service-Final"]
+    path = ai-service-Final
+    url = https://github.com/B-Crolly/ai-service-Final
+
+[submodule "makeline-service-Final"]
+    path = makeline-service-Final
+    url = https://github.com/B-Crolly/makeline-service-Final
+
+[submodule "order-service-Final"]
+    path = order-service-Final
+    url = https://github.com/B-Crolly/order-service-Final
+
+[submodule "product-service-Final"]
+    path = product-service-Final
+    url = https://github.com/B-Crolly/product-service-Final
+
+[submodule "store-front-Final"]
+    path = store-front-Final
+    url = https://github.com/B-Crolly/store-front-final
