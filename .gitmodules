@@ -20,7 +20,7 @@
 
 [submodule "store-admin-Final"]
 path = store-admin-Final
-url = https://github.com/B-Crolly/store-front-Final
+url = https://github.com/B-Crolly/store-admin-Final
 
 [submodule "virtual-customer-Final"]
 path = virtual-customer-Final
